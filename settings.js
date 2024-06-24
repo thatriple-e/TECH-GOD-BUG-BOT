@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348064240739"
-global.ownername = "Bat Man"
+global.ownernomer = "2347054219082"
+global.ownername = "Ant Man"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '2348064240739'  //creator number
-global.ownername = 'Bat Man' //owner name
+global.ownernumber = '2347054219082'  //creator number
+global.ownername = 'Ant Man' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -36,7 +36,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = true //auto update bio
